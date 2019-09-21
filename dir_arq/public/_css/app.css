@@ -1,0 +1,24 @@
+#ms_carteira, #tela02, #refPT, #iframeCode, #lodingRacpt{
+    display: none;
+}
+
+.md_Reload-conteiner{
+    width: 100vw;
+    height: 100vh;
+    background-color: #FFF8E3;
+    position: fixed;
+    z-index: 2000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.conteudo{
+    display: none;
+}
+
+#progrssoMm{
+    height: 60px;
+    font-size: 15pt;
+}

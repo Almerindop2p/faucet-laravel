@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>app/modelos/usuarios.php</url>
+            <bookmark id="1">
+                <name/>
+                <line>17</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/faucet/routes/web.php</file>
+            <file>file:/C:/faucet/app/Http/Controllers/Painel/userController.php</file>
+            <file>file:/C:/faucet/public/_js/app.js</file>
+            <file>file:/C:/faucet/resources/views/pages/minerSucesso.blade.php</file>
+            <file>file:/C:/faucet/resources/views/pages/inicio.blade.php</file>
+            <file>file:/C:/faucet/app/modelos/usuarios.php</file>
+            <file>file:/C:/faucet/resources/views/pages/minerProcesso.blade.php</file>
+            <file>file:/C:/faucet/resources/views/pages/auto.blade.php</file>
+            <file>file:/C:/faucet/public/_js/processo.js</file>
+            <file>file:/C:/faucet/public/_css/app.css</file>
+        </group>
+    </open-files>
+</project-private>
